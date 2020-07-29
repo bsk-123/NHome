@@ -885,6 +885,8 @@ Suggestions Bar
         margin: auto;
         height: 70px;
     }
+}
+@media screen and (max-width: 1024px){
     .mob-sugg{
         display: inline-block;
         width: 100%;
